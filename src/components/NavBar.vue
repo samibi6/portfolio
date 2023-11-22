@@ -6,7 +6,13 @@
                 <router-link to="/">Home</router-link>
             </li>
             <li class="hover:text-blue-600 hover:underline transition">
-                <router-link to="/about">À propos</router-link>
+                <router-link to="about">À propos</router-link>
+            </li>
+            <li class="hover:text-blue-600 hover:underline transition">
+                <router-link to="contact">Contact</router-link>
+            </li>
+            <li class="hover:text-blue-600 hover:underline transition">
+                <router-link to="project">Projets</router-link>
             </li>
         </ul>
     </nav>
